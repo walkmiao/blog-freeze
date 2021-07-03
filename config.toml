@@ -107,7 +107,7 @@ theme = "LoveIt-lch"
       # LOGO 的 URL
       logo = "/images/logo.png"
       # 标题名称
-      name = "walkmiao blog"
+      name = "Linn's Blog"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -256,15 +256,15 @@ theme = "LoveIt-lch"
       Twitter = true
       Facebook = true
       Linkedin = false
-      Whatsapp = true
+      Whatsapp = false
       Pinterest = false
       Tumblr = false
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
@@ -272,8 +272,8 @@ theme = "LoveIt-lch"
       Flipboard = false
       Weibo = true
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
       Evernote = true
@@ -464,7 +464,7 @@ theme = "LoveIt-lch"
 
 # 作者配置
 [author]
-  name = "walkmiao"
+  name = "Linn"
   email = "372815340@qq.com"
   link = ""
 
